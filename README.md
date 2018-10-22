@@ -11,7 +11,7 @@ Notice:Github Hunter only supports Python3.x, if you are using Python2.x,do some
 3.`pip install virtualenv`<br>
 4.`virtualenv --python=/usr/local/bin/python3 env`<br>
 5.`source venv/bin/activate`<br>
-6.`pip install -r requirements`<br>
+6.`pip install -r requirements.txt`<br>
 ## Settings
 Befor use it,you must change parameters in `info.ini.example`,then change filename(just delete `.example`)
 ### Example
